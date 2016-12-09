@@ -1,0 +1,5 @@
+# GoToHack 2
+## Датасеты
+Табличка: https://docs.google.com/spreadsheets/d/1nGyF3hCt6kSDg0DsUWwwjE2rirt2u1iz8alRoduZhO4/edit?usp=sharing
+
+Данные: http://c15731.mo01.servers.im/mainstore/data/
