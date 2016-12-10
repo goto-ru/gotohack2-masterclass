@@ -6,14 +6,18 @@
 
 ## Сервера
 ### Запуск jupyter
-systemctl start jupyter
-systemctl stop jupyter
-systemctl restart jupyter
+`systemctl start jupyter`
+
+`systemctl stop jupyter`
+
+`systemctl restart jupyter`
 
 ### python2 
 Команды для того, чтобы активировать в shell python2 по умолчанию
-''source activate py27''
-''source deactivate''
+
+`source activate py27`
+
+`source deactivate`
 
 В jupyter создать тетрадку с соответствующим ядром
 
